@@ -44,7 +44,6 @@ Contributing
 In order to access/alter/develop the test suite, navigate to jasmine/spec/feedreader.js and open with the text editor of your choice.
 
 Development Strategy
-(as given by Udacity)
 
 * Open up `index.html` and review the functionality of the application within your browser
 * What is all the code in `app.js` doing? Be sure to read all code comments
